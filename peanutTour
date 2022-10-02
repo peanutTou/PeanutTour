@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>peanut tour</title>
+  </head>
+  <script>
+    var n = 0;
+    window.onload=function(){
+      alert(“不会真的有人这么闲吧？”）；
+        i=true;
+      while(i){
+        alert("不会吧，不会吧？“）；
+        n++;
+        if(n==10){
+          i=false;
+        }
+      }
+    }
+  </script>
+  <body>
+    <h1>你不会真的来看了吧？</h1>
+  </body>
+</html>
